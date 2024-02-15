@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Qml-Button.qml</file>
+        <file>Qml-Menu.qml</file>
+        <file>Qml-ListView.qml</file>
+        <file>Qml-GridView.qml</file>
+        <file>Qml-Repeater.qml</file>
+        <file>Qml-SwipeView.qml</file>
+        <file>Qml-TabView_Simple.qml</file>
+        <file>Qml-TabBar.qml</file>
+        <file>Qml-SplitView.qml</file>
+        <file>Qml-Slider_and_ProgressBar.qml</file>
+        <file>Qml-GroupBox_RadioBox_CheckBox.qml</file>
+        <file>Qml-Dialog.qml</file>
+        <file>Qml-FileDialog.qml</file>
+        <file>Qml-ComboBox.qml</file>
+        <file>Qml-SpinBox.qml</file>
+        <file>Qml-Switch.qml</file>
+        <file>Qml-TextArea.qml</file>
+        <file>Qml-StackView.qml</file>
+        <file>stackview/StartingPage.qml</file>
+        <file>stackview/SecondPage.qml</file>
+        <file>stackview/ThirdPage.qml</file>
+        <file>stackview/FourPage.qml</file>
+        <file>Qml-TreeView.qml</file>
+        <file>Qml-QPROPERTY.qml</file>
+        <file>Qml-Canvas.qml</file>
+        <file>Qml-Dial.qml</file>
+        <file>tableview/CitiesTableView.qml</file>
+        <file>tableview/FoodsTableView.qml</file>
+        <file>tableview/PeoplesTableView.qml</file>
+        <file>Qml-TableView.qml</file>
+    </qresource>
+</RCC>

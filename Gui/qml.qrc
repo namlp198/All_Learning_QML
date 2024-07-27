@@ -31,5 +31,8 @@
         <file>tableview/FoodsTableView.qml</file>
         <file>tableview/PeoplesTableView.qml</file>
         <file>Qml-TableView.qml</file>
+        <file>QML-FlickableImage.qml</file>
+        <file>debug/images/test.jpg</file>
+        <file>Qml-ResizableControl.qml</file>
     </qresource>
 </RCC>

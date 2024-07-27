@@ -25,7 +25,7 @@ int main(int argc, char *argv[])
     //const QUrl url(QStringLiteral("qrc:/Qml-Repeater.qml"));
     //const QUrl url(QStringLiteral("qrc:/Qml-SwipeView.qml"));
     //const QUrl url(QStringLiteral("qrc:/Qml-TabView_Simple.qml"));
-    //const QUrl url(QStringLiteral("qrc:/Qml-TabBar.qml"));
+    const QUrl url(QStringLiteral("qrc:/Qml-TabBar.qml"));
     //const QUrl url(QStringLiteral("qrc:/Qml-SplitView.qml"));
     //const QUrl url(QStringLiteral("qrc:/Qml-Slider_and_ProgressBar.qml"));
     //const QUrl url(QStringLiteral("qrc:/Qml-GroupBox_RadioBox_CheckBox.qml"));
@@ -40,7 +40,9 @@ int main(int argc, char *argv[])
     //const QUrl url(QStringLiteral("qrc:/Qml-QPROPERTY.qml"));
     //const QUrl url(QStringLiteral("qrc:/Qml-Canvas.qml"));
     //const QUrl url(QStringLiteral("qrc:/Qml-Dial.qml"));
-    const QUrl url(QStringLiteral("qrc:/Qml-TableView.qml"));
+    //const QUrl url(QStringLiteral("qrc:/Qml-TableView.qml"));
+    //const QUrl url(QStringLiteral("qrc:/QML-FlickableImage.qml"));
+    //const QUrl url(QStringLiteral("qrc:/Qml-ResizableControl.qml"));
 
     //TreeViewModel myModel;
     //engine.rootContext()->setContextProperty("myModel", &myModel);
